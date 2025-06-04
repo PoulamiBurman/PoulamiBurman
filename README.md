@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning ARM-based embedded C, system-level programming, and a bit of full-stack web dev
 
-📫 How to reach me: [burmanpoulami@gmail.com](mailto:burmanpoulami05@gmail.com) | [LinkedIn](https://www.linkedin.com/in/poulamiburman)
+📫 How to reach me: [burmanpoulami@gmail.com](mailto:burmanpoulami05@gmail.com) | [LinkedIn](www.linkedin.com/in/poulami-burman)
 
 😄 Pronouns: she/her
 
